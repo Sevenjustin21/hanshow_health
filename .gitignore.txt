@@ -1,0 +1,14 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Excel 输出文件
+output/*.xlsx
+
+# 临时日志或测试文件（如有）
+*.log
+*.tmp
+
+# VSCode 或 PyCharm 配置
+.vscode/
+.idea/
