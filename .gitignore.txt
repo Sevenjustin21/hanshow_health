@@ -12,3 +12,6 @@ output/*.xlsx
 # VSCode 或 PyCharm 配置
 .vscode/
 .idea/
+
+.env
+
