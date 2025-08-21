@@ -40,7 +40,8 @@ pip install -r requirements.txt
 ```
 
 2. 修改配置（如有需要）：
-   - 在 `modules/config.py` 中填写用户名、密码、ChromeDriver 路径等参数
+   - 在 `modules/config.py` 中填写ChromeDriver 路径等参数
+   - 自己创建env文件填入用户名、密码信息
 
 3. 运行脚本：
 
